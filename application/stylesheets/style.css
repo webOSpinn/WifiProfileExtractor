@@ -1,0 +1,25 @@
+.status-title {      
+    font-size: 10px;  
+	font-weight: bold;
+	color: #777;
+}
+
+.ucase{
+	text-transform: uppercase;
+}
+
+.text-group {
+	padding: 14px 0 14px 14px;
+}
+
+.title.ssid {                     
+	line-height: auto !important;
+	/* get truncated SSID as close to checkmark as possible */    
+	padding: 0 !important;
+	margin-right: -4px;
+}
+
+#profileListGroup{
+	/*HACK: Would like to figure out a better way to make appear higher up on screen*/
+	margin-top:-50px;
+}

@@ -1,0 +1,10 @@
+{
+	"id": "com.palm.spinn.wifiprofileextractor",
+	"version": "1.0.0",
+	"vendor": "Spinn",
+	"type": "web",
+	"main": "index.html",
+	"title": "Wifi Profile Extractor",
+	"icon": "icon.png",
+	"uiRevision": 2
+}

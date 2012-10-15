@@ -1,0 +1,1 @@
+palm-install com.palm.spinn.wifiprofileextractor_1.0.0_all.ipk
